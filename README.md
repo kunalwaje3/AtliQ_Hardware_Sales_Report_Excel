@@ -1,7 +1,7 @@
 # AtliQ_Hardware_Sales_Report_Excel
 - **Project objective:** 
 
-   ** Create a [Customer Performance Report.pdf](https://github.com/kunalwaje3/AtliQ_Hardware_Sales_Report_Excel/blob/ff8159d437442bf4fbabdf5038bfaedd6d137664/Customer%20Performance%20Report.pdf)
+   ** Create a [Customer Performance Report](https://github.com/kunalwaje3/AtliQ_Hardware_Sales_Report_Excel/blob/ff8159d437442bf4fbabdf5038bfaedd6d137664/Customer%20Performance%20Report.pdf)
 
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
